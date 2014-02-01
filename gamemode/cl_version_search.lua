@@ -75,5 +75,5 @@ function gwt_Version.DisplayVersion()
 	chat.AddText( unpack(myDisplay) )
 end
 
-http.Fetch( "http://subversion.assembla.com/svn/garryware/gamemode/cl_version.lua", gwt_Version.GetVersionFromRepo, gwt_Version.GetVersionFromRepoFailed )
+http.Fetch( "https://raw.github.com/andrewmunro/garryware/master/gamemode/cl_version.lua", gwt_Version.GetVersionFromRepo, gwt_Version.GetVersionFromRepoFailed )
 print( "Getting the version data..." )
