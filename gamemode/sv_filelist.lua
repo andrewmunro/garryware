@@ -16,6 +16,7 @@ AddCSLuaFile( "cl_usermsg.lua" )
 AddCSLuaFile( "cl_mapdecoration.lua" )
 
 AddCSLuaFile( "cl_version.lua" )
+AddCSLuaFile( "cl_version_search.lua" )
 
 AddCSLuaFile( "skin.lua" )
 AddCSLuaFile( "sh_tables.lua" )
