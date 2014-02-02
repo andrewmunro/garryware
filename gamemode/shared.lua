@@ -14,7 +14,7 @@ GM.Author 	= "Hurricaaane (Ha3 Team)"
 GM.Email 	= ""
 GM.Website 	= ""
 
-DeriveGamemode( "fretta" )
+DeriveGamemode( "fretta13" )
 IncludePlayerClasses()
 
 GM.Help		= 

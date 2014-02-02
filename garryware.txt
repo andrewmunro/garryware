@@ -1,6 +1,6 @@
 "garryware"
 {
-    "base"              "fretta"
+    "base"              "fretta13"
 	"title"		        "GarryWare"
     "menusystem"		"1"	
 	"maps"              "^wa_"
@@ -10,8 +10,5 @@
 	{
 		"1"	"wa_"
 	}
-    "description"	"GarryWare - Do what she says."
-	
-	"author_name"	"GarryWare authors and GitHub Updaters"
-	
+    "description"	"GarryWare - Do what she says."	
 }
